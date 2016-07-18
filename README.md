@@ -5,11 +5,12 @@ I want to be able to see a list of todos
 
 User story 2
 
-I want to be able to add a todo
+I want to be able to delete a todo
 
 User story 3
 
-I want to be able to delete a todo
+I want to be able to add a todo
+
 
 User story 4
 
@@ -18,3 +19,11 @@ I want to be able to edit a todo
 User story 5
 
 I want to to be able to change the status of a todo
+
+User story 6
+
+I want to to be able to save changes to file
+
+User story 7
+
+I want to to be able to access  file 

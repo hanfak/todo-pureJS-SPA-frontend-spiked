@@ -1,0 +1,11 @@
+input.edit-task {
+  display: none;
+}
+
+div.edit p {
+  display: none;
+}
+
+div.edit input {
+  display: initial;
+}
