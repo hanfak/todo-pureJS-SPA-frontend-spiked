@@ -26,4 +26,6 @@ I want to to be able to save changes to file
 
 User story 7
 
-I want to to be able to access  file 
+I want to to be able to access  file
+
+browser-sync start --server --directory --files "*"

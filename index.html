@@ -3,19 +3,18 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>The HTML5 Herald</title>
+  <title>To Do List</title>
   <link rel="stylesheet" href="lib/css/styles.css">
-  <script type="text/javascript" src="lib/index.js"></script>
+  <script type="text/javascript" src="lib/taskList.js"></script>
   <script type="text/javascript" src="lib/interface.js"></script>
-
-
 </head>
 
 <body>
   <h1>To Do app</h1>
-  <div id='task-lists'></div>
 
-  <input id="btn-add-task" type="button" onclick="showAddTaskForm('new-task-form'  )" value="Add a task"></input>
+  <div id='task-lists'></div>
+  
+  <input id="btn-add-task" type="button" onclick="showAddTaskForm('new-task-form')" value="Add a task"></input>
 
   <form id='new-task-form' action="#" method="post" name="new-task-form" onSubmit="return false;" style="display:none;">
     <label>Name of task:</label>
